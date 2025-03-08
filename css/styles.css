@@ -9,7 +9,7 @@ header {
   color: #2e2f42;
 }
 
-.address-inf {
+.address-inf a {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
@@ -23,7 +23,11 @@ header {
     color: #404bbf;
 }
 .address-inf a:hover{
-    color: #404bbf;
+    color: #404BBF;
+}
+
+.address-inf .under-line:hover{
+    text-decoration: underline;
 }
 
 .nav-list a {
