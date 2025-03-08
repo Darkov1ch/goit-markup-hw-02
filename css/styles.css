@@ -39,6 +39,10 @@ header {
     color: #404BBF;
 }
 
+.nav-list .special-studio:focus {
+    color: #404bbf;
+}
+
 .logo-pupa {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
