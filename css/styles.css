@@ -9,7 +9,7 @@ header {
   color: #2e2f42;
 }
 
-.address a {
+.address_inf a {
   color: #2e2f42;
   font-size: 16px;
   font-weight: 400;
@@ -20,7 +20,7 @@ header {
   background-color: #FFFFFF;
 }
 
-.address a:hover{
+.address-inf a:hover{
     color: #404BBF;
 }
 
@@ -38,12 +38,8 @@ header {
 .nav-list a:hover{
     color: #404BBF;
 }
-.nav-list .nav-studio:active{
-    color: #404BBF;
-     border-bottom: 2px solid #404BBF;
-} 
 
-.logo1 {
+.logo-pupa {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -54,7 +50,7 @@ header {
   background-color: #F4F4FD;
 }
 
-.logo2 {font-family: "Raleway", sans-serif;
+.logo-lupa {font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   text-transform: uppercase;
