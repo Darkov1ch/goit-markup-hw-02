@@ -75,13 +75,18 @@ header {
 
 }
 
-.main-header {
+.sect1 {
+background-color: #2e2f42;
+
+}
+
+.sect1 .main-header {
   font-size: 56px;
   font-weight: 700;
   letter-spacing: 0.02em;
   text-align: center;
   line-height: 1.07;
-  background-color: #2e2f42;
+  color: #ffffff ;
   font-family: "Roboto", sans-serif;
 }
 
@@ -93,9 +98,10 @@ header {
   background-color: #4D5AE5;
   line-height: 1.5;
   cursor: pointer;
+  font-family: "Roboto", sans-serif;
 }
 
-.ord-but:hover {
+.ord-but:focus {
     background-color: #404BBF;
 } 
 
