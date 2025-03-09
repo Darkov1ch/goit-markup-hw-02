@@ -170,6 +170,9 @@ background-color: #2e2f42;
   letter-spacing: 0.02em;
   line-height: 1.5;
 }
+.phooter-class .logo-lupa {
+  color: #f4f4fd;
+}
 
 ul {
   list-style: none;
