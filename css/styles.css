@@ -71,13 +71,14 @@ header {
 
 }
 
-h1 {
+.main-header {
   font-size: 56px;
   font-weight: 700;
   letter-spacing: 0.02em;
   text-align: center;
   line-height: 1.07;
   background-color: #2E2F42;
+  font-family: "Roboto", sans-serif;
 }
 
 .ord-but {
@@ -87,9 +88,10 @@ h1 {
   letter-spacing: 0.04em;
   background-color: #4D5AE5;
   line-height: 1.5;
+  cursor: pointer;
 }
 
-.ord-but:hover{
+.ord-but:hover {
     background-color: #404BBF;
 } 
 
