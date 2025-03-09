@@ -9,6 +9,10 @@ header {
   color: #2e2f42;
 }
 
+.adress-something {
+  font-style: normal;
+}
+
 .address-inf a {
   color: #434455;
   font-size: 16px;
