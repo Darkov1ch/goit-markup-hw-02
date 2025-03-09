@@ -75,12 +75,12 @@ header {
 
 }
 
-.sect1 {
+.sect-one {
 background-color: #2e2f42;
 
 }
 
-.sect1 .main-header {
+.sect-one .main-header {
   font-size: 56px;
   font-weight: 700;
   letter-spacing: 0.02em;
@@ -109,7 +109,7 @@ background-color: #2e2f42;
   background-color: #404BBF;
 }
 
-.h2main-head {
+.htwomain-head {
     font-size: 36px;
     font-weight: 700;
     letter-spacing: 0.02em;
