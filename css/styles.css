@@ -122,6 +122,10 @@ background-color: #2e2f42;
     background-color: #FFFFFF;
 }
 
+.sect-three {
+  background-color: #F4F4FD;
+}
+
 .hthreetop-head {
   font-size: 20px;
   font-weight: 500;
@@ -129,6 +133,19 @@ background-color: #2e2f42;
   color: #2e2f42;
   line-height: 1.2;
 }
+
+.sect-three .htwomain-head {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.t-photo {
+  background-color: #FFFFFF;
+}
+
 
 .paragraph {
   font-size: 16px;
