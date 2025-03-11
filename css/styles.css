@@ -1,12 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
-  color: #434455 ;
-  background-color: #FFFFFF;
-}
-
-header {
-  background-color: #e7e9fc;
-  color: #2e2f42;
+  color: #434455;
+  background-color: #ffffff;
 }
 
 .adress-something {
@@ -21,20 +16,20 @@ header {
   text-decoration: none;
   font-style: normal;
   line-height: 1.5;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
-.address-inf a:focus{
-    color: #404bbf;
+.address-inf a:focus {
+  color: #404bbf;
 }
-.address-inf a:hover{
-    color: #404BBF;
-}
-
-.address-inf .under-line:hover{
-    text-decoration: underline;
+.address-inf a:hover {
+  color: #404bbf;
 }
 
-.nav-list a {
+.address-inf .under-line:hover {
+  text-decoration: underline;
+}
+
+.special-studio {
   text-decoration: none;
   color: #2e2f42;
   text-transform: capitalize;
@@ -42,15 +37,12 @@ header {
   letter-spacing: 0.02em;
   font-weight: 500;
   line-height: 1.5;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
-.nav-list a:hover{
-    color: #404BBF;
-}
-
-.nav-list .special-studio:focus {
-    color: #404bbf;
+.special-studio:hover,
+.special-studio:focus {
+  color: #404bbf;
 }
 
 .logo-pupa {
@@ -61,23 +53,15 @@ header {
   line-height: 1.17;
   letter-spacing: 0.03em;
   color: #4d5ae5;
-  background-color: #F4F4FD;
+  text-decoration: none;
 }
 
-.logo-lupa {font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  font-weight: 700;
-  text-transform: uppercase;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  color: #2E2F42;
-  background-color: #F4F4FD;
-
+.logo-lupa {
+  color: #2e2f42;
 }
 
 .sect-one {
-background-color: #2e2f42;
-
+  background-color: #2e2f42;
 }
 
 .sect-one .main-header {
@@ -86,7 +70,7 @@ background-color: #2e2f42;
   letter-spacing: 0.02em;
   text-align: center;
   line-height: 1.07;
-  color: #ffffff ;
+  color: #ffffff;
   font-family: "Roboto", sans-serif;
 }
 
@@ -95,35 +79,34 @@ background-color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
   letter-spacing: 0.04em;
-  background-color: #4D5AE5;
+  background-color: #4d5ae5;
   line-height: 1.5;
   cursor: pointer;
   font-family: "Roboto", sans-serif;
 }
 
 .ord-but:focus {
-    background-color: #404BBF;
-} 
+  background-color: #404bbf;
+}
 
 .ord-but:hover {
-  background-color: #404BBF;
+  background-color: #404bbf;
 }
 
 .sect-two .htwomain-head {
-    font-size: 20px;
-    font-weight: 500;
-    letter-spacing: 0.02em;
-    line-height: 1.2;
-    color: #2e2f42;
-    background-color: #F4F4FD;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  line-height: 1.2;
+  color: #2e2f42;
 }
 
-.portfolio{
-    background-color: #FFFFFF;
+.portfolio {
+  background-color: #ffffff;
 }
 
 .sect-three {
-  background-color: #F4F4FD;
+  background-color: #f4f4fd;
 }
 
 .hthreetop-head {
@@ -143,7 +126,7 @@ background-color: #2e2f42;
   color: #2e2f42;
 }
 .photo-emp {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 .sect-four .htwomain-head {
@@ -152,7 +135,7 @@ background-color: #2e2f42;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color: #2E2F42;
+  color: #2e2f42;
 }
 
 .paragraph {
@@ -161,9 +144,9 @@ background-color: #2e2f42;
   color: #434455;
   line-height: 1.5;
 }
- .phooter-class {
+.phooter-class {
   background-color: #2e2f42;
- }
+}
 .phooter-class .phooter-paragraph {
   color: #f4f4fd;
   font-size: 16px;
